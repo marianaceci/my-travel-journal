@@ -1,5 +1,5 @@
 import React from "react";
-import data from "./data";
+import data from "./assets/data";
 import Card from "./Card";
 import Navbar from "./Navbar";
 
