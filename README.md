@@ -2,6 +2,8 @@
 
 ### Practicing React Components and props
 
+- Live Site URL: [https://inquisitive-capybara-6701a3.netlify.app/](https://inquisitive-capybara-6701a3.netlify.app/)
+
 ![](./screenshot.png)
 
 Quick start:
